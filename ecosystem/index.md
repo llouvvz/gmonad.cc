@@ -28,7 +28,7 @@ import InfoCard from '../.vitepress/components/Card.vue'
 探索 Monad 生态系统中的优秀项目，发现更多可能性。
 :::
 
-## DeFi 应用
+DeFi
 
 <div class="ecosystem-grid">
   <InfoCard
